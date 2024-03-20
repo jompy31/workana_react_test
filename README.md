@@ -93,7 +93,7 @@ Redux is used on the page to manage the global state of the application. A Redux
 <img  src="./programming.gif" height="290px" align="right" />
 <br>
 
-- All about me is at **[My Website](https://jompy31.github.io/)**
+- All about me is at **[My Website](https://www.linkedin.com/in/jean-caruzo-452b9a1b1/)**
 
 - I’m currently working on `Machine learning with Python`
 
