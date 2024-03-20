@@ -28,7 +28,7 @@ You can view the live version of this project [here](https://workana-react.netli
 
 
 ## Step-by-Step Guide
-1. **Fork this Repository**: Create a fork of the public repository [reactchallenge.git](https://github.com/sebasworkana/reactchallenge.git) on your own GitHub account.
+1. **Fork this Repository**: Create a fork of the public repository "https://github.com/sebasworkana/react-challenge" on your own GitHub account.
 
 2. **Clone and Push**: Clone the forked repository to your local machine. Push it to a branch named `react-challenge`. Then, send a pull request to your main branch and provide access to the GitHub user `sebasworkana`.
 
